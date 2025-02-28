@@ -13,14 +13,14 @@ This project extracts data from websites using **BeautifulSoup** and **Pandas**,
 ## 📌 Before: Data in Web Page
 The raw data is available on the website in table format.
 
-![Before](./images/Before.png)
+![Before](https://github.com/Pearl-15/Web_Scraping/blob/main/images/Before.png)
 
 ---
 
 ## 🚀 After: Scraped Data Exported to CSV
 The extracted data is structured and saved as a CSV file.
 
-![After](./images/After.png)
+![After](https://github.com/Pearl-15/Web_Scraping/blob/main/images/After.png)
 
 ---
 
